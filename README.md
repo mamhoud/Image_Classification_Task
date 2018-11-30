@@ -5,7 +5,7 @@
   - seconde one : Raw Data set ( Dogs , Cats , and Cars ) and I work with flow_from_directory  and use generator to generate pickles for model
     - In this area you can run only first Cell and last one because last run of the model has accuracy 70 % with 10 epochs only
     
-* [Model Pickle](https://www.mediafire.com/file/ogul3slf1uq3v3o/model.h5/file)  
+* [Model Pickle](https://www.mediafire.com/file/m40comtpc04kkk5/model.h5/file)  
 
 * [Predict File](http://www.mediafire.com/folder/bizh2rcq81oqh/predict) 
 
