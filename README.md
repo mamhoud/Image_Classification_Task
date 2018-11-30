@@ -9,5 +9,3 @@
 
 * [Predict File](http://www.mediafire.com/folder/bizh2rcq81oqh/predict) 
 
-* [Predict File](http://www.mediafire.com/folder/bizh2rcq81oqh/predict) 
-
